@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1734968051 source:e:\iti\c language\myproject\studentgrademanagementsystem\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
